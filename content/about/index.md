@@ -8,7 +8,7 @@ sections:
       background:
         color: '#333'
         image:
-          filename: welcome.jpg
+          filename: contact.jpg
           filters:
             brightness: 0.5
         position: right
