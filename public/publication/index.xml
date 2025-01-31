@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Donaldson M&amp;E</title>
+    <link>http://localhost:4321/publication/</link>
+      <atom:link href="http://localhost:4321/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu11734318148517933569.png</url>
+      <title>Publications</title>
+      <link>http://localhost:4321/publication/</link>
+    </image>
+    
+    <item>
+      <title>The PERMA&#43;4 Short Scale - A Cross-Cultural Empirical Validation Using Item Response Theory</title>
+      <link>http://localhost:4321/publication/ijpp2/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/ijpp2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PERMA&#43;4 - A Framework for Work-Related Wellbeing, Performance and Positive Organizational Psychology 2.0</title>
+      <link>http://localhost:4321/publication/perma4/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/perma4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Positive Psychological Capital (PsyCap) Meets Multitrait-Multimethod Analysis - Is PsyCap a Robust Predictor of Well-Being and Performance Controlling for Self-Report Bias?</title>
+      <link>http://localhost:4321/publication/psycap_mtmm/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/psycap_mtmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining PERMA&#43;4 and Work Role Performance beyond Self-Report Bias: Insights from Multitrait-Multimethod Analyses</title>
+      <link>http://localhost:4321/publication/mtmm/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/mtmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Perspectives on Positive Psychology</title>
+      <link>http://localhost:4321/publication/global_perspectives/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/global_perspectives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Positive Organizational Psychology Interventions</title>
+      <link>http://localhost:4321/publication/popi/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/popi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Positive Organizational Psychology Interventions</title>
+      <link>http://localhost:4321/publication/popi2/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/popi2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Positive Functioning at Work Scale: Psychometric Assessment, Validation, and Measurement Invariance</title>
+      <link>http://localhost:4321/publication/jwa/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/jwa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining Building Blocks of Well-Being Beyond PERMA and Self-Report Bias</title>
+      <link>http://localhost:4321/publication/jpp/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/jpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in the Science of Positive Work and Organizations</title>
+      <link>http://localhost:4321/publication/advances_pwo/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/advances_pwo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Positive Psychology Interventions at Work: A Systematic Review and Meta-Analysis</title>
+      <link>http://localhost:4321/publication/ijpp/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/ijpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effectiveness of Positive Psychology Interventions in the Workplace: A Theory-Driven Evaluation Approach</title>
+      <link>http://localhost:4321/publication/td.ppis/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/td.ppis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

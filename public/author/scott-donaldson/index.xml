@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott Donaldson | Donaldson M&amp;E</title>
+    <link>http://localhost:4321/author/scott-donaldson/</link>
+      <atom:link href="http://localhost:4321/author/scott-donaldson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scott Donaldson</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:4321/author/scott-donaldson/avatar_hu3932951477587272179.jpg</url>
+      <title>Scott Donaldson</title>
+      <link>http://localhost:4321/author/scott-donaldson/</link>
+    </image>
+    
+  </channel>
+</rss>

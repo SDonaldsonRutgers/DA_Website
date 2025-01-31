@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stewart I. Donaldson | Donaldson M&amp;E</title>
+    <link>http://localhost:4321/author/stewart-i.-donaldson/</link>
+      <atom:link href="http://localhost:4321/author/stewart-i.-donaldson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stewart I. Donaldson</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu11734318148517933569.png</url>
+      <title>Stewart I. Donaldson</title>
+      <link>http://localhost:4321/author/stewart-i.-donaldson/</link>
+    </image>
+    
+    <item>
+      <title>The PERMA&#43;4 Short Scale - A Cross-Cultural Empirical Validation Using Item Response Theory</title>
+      <link>http://localhost:4321/publication/ijpp2/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/ijpp2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Positive Organizational Psychology Interventions</title>
+      <link>http://localhost:4321/publication/popi/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/popi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Positive Organizational Psychology Interventions</title>
+      <link>http://localhost:4321/publication/popi2/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/popi2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Positive Functioning at Work Scale: Psychometric Assessment, Validation, and Measurement Invariance</title>
+      <link>http://localhost:4321/publication/jwa/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/jwa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining Building Blocks of Well-Being Beyond PERMA and Self-Report Bias</title>
+      <link>http://localhost:4321/publication/jpp/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/jpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Positive Psychology Interventions at Work: A Systematic Review and Meta-Analysis</title>
+      <link>http://localhost:4321/publication/ijpp/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/ijpp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher Chen | Donaldson M&amp;E</title>
+    <link>http://localhost:4321/author/christopher-chen/</link>
+      <atom:link href="http://localhost:4321/author/christopher-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher Chen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu11734318148517933569.png</url>
+      <title>Christopher Chen</title>
+      <link>http://localhost:4321/author/christopher-chen/</link>
+    </image>
+    
+    <item>
+      <title>Designing Positive Organizational Psychology Interventions</title>
+      <link>http://localhost:4321/publication/popi/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/popi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Positive Organizational Psychology Interventions</title>
+      <link>http://localhost:4321/publication/popi2/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/popi2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
