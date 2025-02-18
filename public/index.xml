@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Donaldson M&amp;E</title>
+    <title>Donaldson Measurement Group</title>
     <link>http://localhost:4321/</link>
       <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
-    <description>Donaldson M&amp;E</description>
+    <description>Donaldson Measurement Group</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:4321/media/icon_hu11734318148517933569.png</url>
-      <title>Donaldson M&amp;E</title>
+      <title>Donaldson Measurement Group</title>
       <link>http://localhost:4321/</link>
     </image>
     
@@ -32,28 +32,16 @@
       <link>http://localhost:4321/projects/perma4_collaborative/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       <guid>http://localhost:4321/projects/perma4_collaborative/</guid>
-      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+      <description>&lt;p&gt;Led by Dr. Stewart I. Donaldson and Dr. Scott I. Donaldson, the PERMA+4 Collaborative offers innovative measurement scales and practical tools to assess and nurture the nine building blocks of well-being and positive functioning. Building on Professor Martin Seligman’s original PERMA model, PERMA+4 expands the framework to include additional dimensions that predict optimal performance at work, school, and in life. Our global community of researchers and practitioners shares resources, validated scales, and peer-reviewed scientific findings to promote well-being and vitality worldwide. Explore our site for definitions, validated tools, and key publications—or email &lt;a href=&#34;mailto:Stewart.Donaldson@cgu.edu&#34;&gt;Stewart.Donaldson@cgu.edu&lt;/a&gt; to join the initiative free of charge.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Good Foundry</title>
       <link>http://localhost:4321/projects/good-foundry/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/projects/good-foundry/</guid>
-      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+      <description>&lt;p&gt;At Donaldson Measurement Group, we are pioneering research in economic security and well-being. In partnership with The Good Foundry, our team is developing and validating a multidimensional scale that extends the PERMA+4 framework to include critical economic stability factors such as income consistency, job security, and financial resilience. Leveraging rigorous literature reviews, international survey data, and advanced statistical analyses in R, our research delivers actionable insights that enhance both personal and workplace outcomes. Our innovative approach bridges cutting-edge psychometrics with applied positive psychology, empowering organizations to cultivate healthier, more resilient communities.&lt;/p&gt;
 </description>
     </item>
     
@@ -63,6 +51,28 @@
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation, Statistics, and Measurement</title>
+      <link>http://localhost:4321/about/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/about/</guid>
+      <description>&lt;p&gt;We specialize in measurement and evaluation, using advanced statistical methods to assess health and well-being outcomes. We have established a track record of providing psychometric and scale validation services, ensuring assessments are reliable, valid, and scientifically rigorous for use in organizational settings.&lt;/p&gt;
+&lt;p&gt;Our work integrates quantitative analytics with behavioral science to refine measurement tools and improve data-driven decision-making. By applying cutting-edge methodologies, we help organizations develop and validate effective well-being assessments, ensuring they capture meaningful insights that drive impactful interventions and policy advancements. Our mission is to enhance measurement precision for a healthier, more resilient society.&lt;/p&gt;
+&lt;h2 id=&#34;research-topics-include&#34;&gt;Research topics include:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Well-being measurement&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Program design &amp;amp; evaluation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Statistical consulting &amp;amp; analytics&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -78,14 +88,6 @@
       <link>http://localhost:4321/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tour</title>
-      <link>http://localhost:4321/about/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/about/</guid>
       <description></description>
     </item>
     

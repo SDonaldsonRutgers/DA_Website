@@ -1,32 +1,17 @@
 ---
-date: "2022-10-24"
-sections:
-- block: slider
-  content:
-    slides:
-    - align: center
-      background:
-        color: '#333'
-        image:
-          filename: contact.jpg
-          filters:
-            brightness: 1.0
-        position: right
-      content:
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Our Work
-        url: ../about/WhatweDo
-      title: 
-  design:
-    interval: 2000
-    is_fullscreen: true
-    loop: false
-    slide_height: ""
-title: Tour
-type: landing
-
+date: "2025-01-30"
+title: Evaluation, Statistics, and Measurement
 
 ---
 
+We specialize in measurement and evaluation, using advanced statistical methods to assess health and well-being outcomes. We have established a track record of providing psychometric and scale validation services, ensuring assessments are reliable, valid, and scientifically rigorous for use in organizational settings.
+
+Our work integrates quantitative analytics with behavioral science to refine measurement tools and improve data-driven decision-making. By applying cutting-edge methodologies, we help organizations develop and validate effective well-being assessments, ensuring they capture meaningful insights that drive impactful interventions and policy advancements. Our mission is to enhance measurement precision for a healthier, more resilient society.
+
+## Research topics include:
+
+-   Well-being measurement
+
+-   Program design & evaluation
+
+-   Statistical consulting & analytics
