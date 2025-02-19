@@ -49,7 +49,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/stewart-i-donaldson-1704538a/
 
-superuser: 
+superuser: true
 
 title: Stewart I. Donaldson
 user_groups:
