@@ -13,30 +13,6 @@
     </image>
     
     <item>
-      <title>Michelle McQuaid Group</title>
-      <link>http://localhost:4321/projects/mcquaid/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/projects/mcquaid/</guid>
-      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PERMA&#43;4 Collaborative</title>
-      <link>http://localhost:4321/projects/perma4_collaborative/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/projects/perma4_collaborative/</guid>
-      <description>&lt;p&gt;Led by Dr. Stewart I. Donaldson and Dr. Scott I. Donaldson, the PERMA+4 Collaborative offers innovative measurement scales and practical tools to assess and nurture the nine building blocks of well-being and positive functioning. Building on Professor Martin Seligman’s original PERMA model, PERMA+4 expands the framework to include additional dimensions that predict optimal performance at work, school, and in life. Our global community of researchers and practitioners shares resources, validated scales, and peer-reviewed scientific findings to promote well-being and vitality worldwide. Explore our site for definitions, validated tools, and key publications—or email &lt;a href=&#34;mailto:Stewart.Donaldson@cgu.edu&#34;&gt;Stewart.Donaldson@cgu.edu&lt;/a&gt; to join the initiative free of charge.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The Good Foundry</title>
       <link>http://localhost:4321/projects/good-foundry/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
@@ -148,6 +124,15 @@
     </item>
     
     <item>
+      <title>PERMA&#43;4 Collaborative</title>
+      <link>http://localhost:4321/projects/perma4_collaborative/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/projects/perma4_collaborative/</guid>
+      <description>&lt;p&gt;Led by Dr. Stewart I. Donaldson and Dr. Scott I. Donaldson, the PERMA+4 Collaborative offers innovative measurement scales and practical tools to assess and nurture the nine building blocks of well-being and positive functioning. Building on Professor Martin Seligman’s original PERMA model, PERMA+4 expands the framework to include additional dimensions that predict optimal performance at work, school, and in life. Our global community of researchers and practitioners shares resources, validated scales, and peer-reviewed scientific findings to promote well-being and vitality worldwide. Explore our site for definitions, validated tools, and key publications—or email &lt;a href=&#34;mailto:Stewart.Donaldson@cgu.edu&#34;&gt;Stewart.Donaldson@cgu.edu&lt;/a&gt; to join the initiative free of charge.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
       <link>http://localhost:4321/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
@@ -224,6 +209,15 @@
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/publication/advances_pwo/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Michelle McQuaid Group</title>
+      <link>http://localhost:4321/projects/mcquaid/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/projects/mcquaid/</guid>
+      <description>&lt;p&gt;In collaboration with Michelle McQuaid’s group, we have engaged in a multi-year partnership with the University of Melbourne Centre for Wellbeing Science to advance the science of well-being. Our joint efforts have extended across multiple organizations, driving initiatives to enhance well-being in diverse settings. Through our work, we have published several peer-reviewed papers on PERMA+4 measurement, employing advanced methodologies such as item response theory and a systems-informed approach. Our research not only deepens the understanding of well-being dimensions but also provides practical tools for organizations committed to fostering thriving, resilient communities.&lt;/p&gt;
+</description>
     </item>
     
     <item>

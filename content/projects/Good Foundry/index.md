@@ -1,7 +1,7 @@
 ---
 title: The Good Foundry
-
 featured: false
+abstract: Pioneering research in economic security and well-being
 location: 
 projects: null
 publishDate: "2025-02-17T00:00:00Z"
