@@ -56,6 +56,7 @@ user_groups:
 - Researchers
 ---
 
+
 **Stewart I. Donaldson** is a Distinguished University Professor and Executive Director of the Claremont Evaluation Center (CEC) and The Evaluators' Institute (TEI). Committed to enhancing lives through research, evaluation, and education, he mentors students across multiple fields at CGU, including evaluation theory, well-being science, positive psychology, organizational behavior, and global health program evaluation. Since 1995, he has served on over 100 doctoral dissertation committees and mentored more than 200 master's and certificate students. His expertise spans positive youth development, education, and human resource development, fostering innovative approaches to research and evaluation that drive meaningful social impact.
 
 > [Dr. Donaldson's Complete Biography](https://www.cgu.edu/people/stewart-i-donaldson/)
