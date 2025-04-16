@@ -1,7 +1,7 @@
 ---
 date: "2025-01-30"
 title: Evaluation, Statistics, and Measurement
-
+share: false
 ---
 
 We specialize in measurement and evaluation, using advanced statistical methods to assess health and well-being outcomes. We have established a track record of providing psychometric and scale validation services, ensuring assessments are reliable, valid, and scientifically rigorous for use in organizational settings.

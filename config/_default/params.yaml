@@ -12,8 +12,6 @@ appearance:
   font_size: xl
   color: 
 
-
-
 # SEO
 
 marketing:
@@ -22,7 +20,6 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''

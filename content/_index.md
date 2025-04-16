@@ -8,7 +8,7 @@ sections:
     text: |
       <br>
       
-      **The Donaldson Measurement and Evaluation Group** is dedicated to providing advanced measurement and evaluation services to empower individuals, organizations, and communities to achieve positive health & well-being outcomes.   
+      **The Donaldson Measurement Group (DMG)** is dedicated to providing advanced measurement and evaluation services to empower individuals, organizations, and communities to achieve positive health & well-being outcomes.   
 
 - block: collection
   content:
